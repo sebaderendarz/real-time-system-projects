@@ -1,0 +1,3 @@
+/media/coding/c-studies/real-time-systems-sem-6/project-2/cmake-build-debug/CMakeFiles/cron.dir
+/media/coding/c-studies/real-time-systems-sem-6/project-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/coding/c-studies/real-time-systems-sem-6/project-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

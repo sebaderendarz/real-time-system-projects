@@ -1,0 +1,3 @@
+/media/coding/c-studies/real-time-systems-sem-6/project-1/cmake-build-debug/CMakeFiles/project_1.dir
+/media/coding/c-studies/real-time-systems-sem-6/project-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/coding/c-studies/real-time-systems-sem-6/project-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,389 @@
+|| 2022:04:18-15:27:30 || message log level: MAX || global log level: STANDARD ||Starting Cron... ||
+|| 2022:04:18-15:27:42 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-15:27:42 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:00:05 /home/sebastian/test_task ||
+|| 2022:04:18-15:27:42 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:00:05 /home/sebastian/test_task ||
+|| 2022:04:18-15:27:57 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-15:27:57 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-15:27:57 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-15:28:11 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-15:28:11 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:00:05 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-15:28:11 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:00:05 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-15:28:14 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-15:28:14 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-15:28:14 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-15:28:27 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-15:28:27 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-15:28:27 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-15:28:56 || message log level: MAX || global log level: STANDARD ||Starting Cron... ||
+|| 2022:04:18-15:29:05 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-15:29:05 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:00:05 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-15:29:05 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:00:05 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-15:38:53 || message log level: MAX || global log level: STANDARD ||Starting Cron... ||
+|| 2022:04:18-15:38:59 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-15:38:59 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:00:05 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-15:38:59 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:00:05 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-15:39:25 || message log level: MAX || global log level: STANDARD ||Starting Cron... ||
+|| 2022:04:18-15:39:30 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-15:39:30 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:00:05 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-15:45:55 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:00:05 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-15:46:09 || message log level: MAX || global log level: STANDARD ||Starting Cron... ||
+|| 2022:04:18-15:46:20 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-15:46:20 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:00:05 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-15:46:20 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:00:05 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-15:48:22 || message log level: MAX || global log level: STANDARD ||Starting Cron... ||
+|| 2022:04:18-15:48:25 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-15:48:25 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:00:05 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-15:48:25 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:00:05 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-15:49:20 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-15:49:20 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-15:49:20 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-15:49:58 || message log level: MAX || global log level: STANDARD ||Starting Cron... ||
+|| 2022:04:18-15:50:03 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-15:50:03 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:00:05 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-15:50:25 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:00:05 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-15:58:44 || message log level: MAX || global log level: STANDARD ||Starting Cron... ||
+|| 2022:04:18-15:58:50 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-15:58:50 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:00:05 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-15:58:50 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:00:05 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-15:58:52 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-15:58:52 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-15:58:52 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-15:59:48 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-15:59:48 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-15:59:48 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-16:00:12 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:00:12 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:00:05 -c 30:00:00:00:00:0000 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-16:00:12 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:00:05 -c 30:00:00:00:00:0000 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-16:00:14 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:00:14 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-16:00:14 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-16:01:12 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:01:12 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-16:01:12 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-16:01:15 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:01:15 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-16:01:15 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-16:16:32 || message log level: MAX || global log level: STANDARD ||Starting Cron... ||
+|| 2022:04:18-16:16:45 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:16:45 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:00:05 -c 00:01:00:00:00:0000 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-16:16:45 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:00:05 -c 00:01:00:00:00:0000 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-16:16:48 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:16:48 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-16:16:48 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-16:17:01 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:17:01 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:00:05 -c 00:03:00:00:00:0000 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-16:17:01 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:00:05 -c 00:03:00:00:00:0000 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-16:17:03 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:17:03 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-16:17:03 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-16:17:34 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:17:34 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add 2022:04:18 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-16:17:34 || message log level: STANDARD || global log level: STANDARD ||Command handling failed. Incorrect command passed by the client or internal error. ||
+|| 2022:04:18-16:17:34 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add 2022:04:18 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-16:17:47 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:17:47 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add 2022:04:18:16:18:00 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-16:17:47 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add 2022:04:18:16:18:00 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-16:17:50 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:17:50 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-16:17:50 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-16:18:02 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:18:02 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-16:18:02 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-16:18:56 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:18:56 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-16:18:56 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-16:21:51 || message log level: MAX || global log level: STANDARD ||Starting Cron... ||
+|| 2022:04:18-16:21:58 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:21:58 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add 2022:04:18 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-16:21:58 || message log level: STANDARD || global log level: STANDARD ||Command handling failed. Incorrect command passed by the client or internal error. ||
+|| 2022:04:18-16:21:58 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add 2022:04:18 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-16:22:10 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:22:10 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add 2022:04:18:16:23:00 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-16:22:10 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add 2022:04:18:16:23:00 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-16:22:13 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:22:13 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-16:22:13 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-16:22:22 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:22:22 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:00:05 -c 00:03:00:00:00:0000 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-16:22:22 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:00:05 -c 00:03:00:00:00:0000 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-16:22:25 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:22:25 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-16:22:25 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-16:23:05 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:23:05 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-16:23:05 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-16:23:49 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:23:49 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-16:23:49 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-16:28:52 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:28:52 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-16:28:52 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-16:29:04 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:29:04 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:00:05 -c 00:03:00:00:00:0000 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-16:29:04 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:00:05 -c 00:03:00:00:00:0000 /home/sebastian/test_task seba jest cool ||
+|| 2022:04:18-16:29:05 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:29:05 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-16:29:05 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-16:29:14 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:29:14 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: rm 3 ||
+|| 2022:04:18-16:29:14 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: rm 3 ||
+|| 2022:04:18-16:29:16 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:29:16 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-16:29:16 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-16:30:32 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:30:32 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-16:30:32 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-16:37:22 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:37:22 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: rm 4 ||
+|| 2022:04:18-16:37:22 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: rm 4 ||
+|| 2022:04:18-16:37:30 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:37:30 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:00:05 -c 00:03:00:00:00:0000 /home/sebastian/test_task ||
+|| 2022:04:18-16:37:30 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:00:05 -c 00:03:00:00:00:0000 /home/sebastian/test_task ||
+|| 2022:04:18-16:37:46 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:37:46 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-16:37:46 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-16:37:49 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:37:49 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: rm 5 ||
+|| 2022:04:18-16:37:49 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: rm 5 ||
+|| 2022:04:18-16:37:55 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:37:55 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:00:05 -c 00:03:00:00:00:0000 /home/sebastian/test_task ||
+|| 2022:04:18-16:37:55 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:00:05 -c 00:03:00:00:00:0000 /home/sebastian/test_task ||
+|| 2022:04:18-16:37:58 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:37:58 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:04:18-16:37:58 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:04:18-16:38:02 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:04:18-16:38:02 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: exit ||
+|| 2022:04:18-16:38:03 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: exit ||
+|| 2022:05:02-10:24:22 || message log level: MAX || global log level: STANDARD ||Starting Cron... ||
+|| 2022:05:02-10:25:03 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:25:03 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:03:00 -c 00:05:00:00:00:0000 /home/sebastian/test_task ||
+|| 2022:05:02-10:25:03 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:03:00 -c 00:05:00:00:00:0000 /home/sebastian/test_task ||
+|| 2022:05:02-10:25:17 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:25:17 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: help ||
+|| 2022:05:02-10:25:17 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: help ||
+|| 2022:05:02-10:25:22 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:25:22 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:25:22 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:25:50 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:25:50 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:03:00 -c 00:02:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:25:50 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:03:00 -c 00:02:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:25:52 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:25:52 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:25:52 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:26:25 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:26:25 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add 2022:05:02:10:28:00 /home/sebastian/test_task some dummy args ||
+|| 2022:05:02-10:26:25 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add 2022:05:02:10:28:00 /home/sebastian/test_task some dummy args ||
+|| 2022:05:02-10:26:28 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:26:28 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:26:28 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:27:10 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:27:10 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:00:10 /home/sebastian/test_task some dummy args ||
+|| 2022:05:02-10:27:10 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:00:10 /home/sebastian/test_task some dummy args ||
+|| 2022:05:02-10:27:14 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:27:14 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:27:14 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:27:28 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:27:28 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:27:28 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:27:52 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:27:52 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:27:52 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:27:54 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:27:54 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:27:54 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:29:04 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:29:04 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:29:04 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:29:25 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:29:25 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:29:25 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:29:36 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:29:36 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: rm 1 ||
+|| 2022:05:02-10:29:36 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: rm 1 ||
+|| 2022:05:02-10:29:38 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:29:38 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:29:38 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:29:47 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:29:47 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: help ||
+|| 2022:05:02-10:29:47 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: help ||
+|| 2022:05:02-10:30:08 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:30:08 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:30:08 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:30:35 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:30:35 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:01:00 -c 00:02:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:30:35 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:01:00 -c 00:02:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:30:38 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:30:38 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:30:38 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:30:57 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:30:57 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: help ||
+|| 2022:05:02-10:30:57 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: help ||
+|| 2022:05:02-10:31:05 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:31:05 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: exit ||
+|| 2022:05:02-10:31:05 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: exit ||
+|| 2022:05:02-10:31:11 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:31:11 || message log level: STANDARD || global log level: STANDARD ||Connecting to the socket 127.0.0.1:6000 failed. ||
+|| 2022:05:02-10:34:01 || message log level: MAX || global log level: STANDARD ||Starting Cron... ||
+|| 2022:05:02-10:34:11 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:34:11 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: exit ||
+|| 2022:05:02-10:34:11 || message log level: MAX || global log level: STANDARD ||Terminating Cron... ||
+|| 2022:05:02-10:34:11 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: exit ||
+|| 2022:05:02-10:34:19 || message log level: MAX || global log level: STANDARD ||Starting Cron... ||
+|| 2022:05:02-10:34:33 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:34:33 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:01:00 -c 00:02:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:34:33 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:01:00 -c 00:02:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:34:39 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:34:39 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:01:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:34:39 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:01:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:34:43 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:34:43 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:34:43 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:34:49 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:34:49 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:05:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:34:49 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:05:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:34:51 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:34:51 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:34:51 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:34:57 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:34:57 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: rm 3 ||
+|| 2022:05:02-10:34:57 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: rm 3 ||
+|| 2022:05:02-10:34:59 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:34:59 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:34:59 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:35:04 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:35:04 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: exit ||
+|| 2022:05:02-10:35:04 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: exit ||
+|| 2022:05:02-10:35:42 || message log level: MAX || global log level: STANDARD ||Starting Cron... ||
+|| 2022:05:02-10:35:55 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:35:55 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:01:00 -c 00:02:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:35:55 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:01:00 -c 00:02:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:36:00 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:36:00 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:05:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:36:00 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:05:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:36:07 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:36:07 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:01:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:36:07 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:01:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:36:14 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:36:14 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:36:14 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:36:20 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:36:20 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: rm 3 ||
+|| 2022:05:02-10:36:20 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: rm 3 ||
+|| 2022:05:02-10:36:23 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:36:23 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:36:23 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:36:30 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:36:30 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: exit ||
+|| 2022:05:02-10:47:51 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: exit ||
+|| 2022:05:02-10:47:56 || message log level: MAX || global log level: STANDARD ||Starting Cron... ||
+|| 2022:05:02-10:48:02 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:48:02 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:01:00 -c 00:02:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:48:02 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:01:00 -c 00:02:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:48:05 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:48:05 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:01:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:48:05 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:01:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:48:09 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:48:09 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:05:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:48:09 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:05:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:48:12 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:48:12 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:48:12 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:48:19 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:48:19 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: rm 3 ||
+|| 2022:05:02-10:48:19 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: rm 3 ||
+|| 2022:05:02-10:48:22 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:48:22 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:48:22 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:48:26 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:48:26 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: exit ||
+|| 2022:05:02-10:48:26 || message log level: MAX || global log level: STANDARD ||Terminating Cron... ||
+|| 2022:05:02-10:48:26 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: exit ||
+|| 2022:05:02-10:48:37 || message log level: MAX || global log level: STANDARD ||Starting Cron... ||
+|| 2022:05:02-10:48:49 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:48:49 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:01:00 -c 00:02:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:48:49 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:01:00 -c 00:02:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:48:52 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:48:52 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:05:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:48:52 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:05:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:48:56 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:48:56 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:01:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:48:56 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:01:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:49:01 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:49:01 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:49:01 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:49:06 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:49:06 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: rm 3 ||
+|| 2022:05:02-10:49:06 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: rm 3 ||
+|| 2022:05:02-10:49:09 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:49:09 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:49:09 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:49:34 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:49:34 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: exit ||
+|| 2022:05:02-10:49:49 || message log level: MAX || global log level: STANDARD ||Terminating Cron... ||
+|| 2022:05:02-10:49:49 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: exit ||
+|| 2022:05:02-10:52:19 || message log level: MAX || global log level: STANDARD ||Starting Cron... ||
+|| 2022:05:02-10:52:30 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:52:30 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:05:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:52:30 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:05:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:52:34 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:52:34 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:01:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:52:34 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:01:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:52:39 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:52:39 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:01:00 -c 00:02:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:52:39 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:01:00 -c 00:02:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:52:42 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:52:42 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:52:42 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:52:46 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:52:46 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: rm 1 ||
+|| 2022:05:02-10:52:46 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: rm 1 ||
+|| 2022:05:02-10:52:48 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:52:48 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:52:48 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:53:13 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:53:13 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: exit ||
+|| 2022:05:02-10:53:58 || message log level: MAX || global log level: STANDARD ||Terminating Cron... ||
+|| 2022:05:02-10:53:58 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: exit ||
+|| 2022:05:02-10:54:07 || message log level: MAX || global log level: STANDARD ||Starting Cron... ||
+|| 2022:05:02-10:54:17 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:54:17 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:01:00 -c 00:02:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:54:17 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:01:00 -c 00:02:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:54:24 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:54:24 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:01:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:54:24 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:01:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:54:27 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:54:27 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:05:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:54:27 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:05:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:54:31 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:54:31 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:54:31 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:54:35 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:54:35 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: rm 2 ||
+|| 2022:05:02-10:54:35 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: rm 2 ||
+|| 2022:05:02-10:54:37 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:54:37 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:54:37 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-10:54:43 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:54:43 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: exit ||
+|| 2022:05:02-10:59:09 || message log level: MAX || global log level: STANDARD ||Terminating Cron... ||
+|| 2022:05:02-10:59:09 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: exit ||
+|| 2022:05:02-10:59:23 || message log level: MAX || global log level: STANDARD ||Starting Cron... ||
+|| 2022:05:02-10:59:47 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:59:47 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:01:00 -c 00:02:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:59:47 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:01:00 -c 00:02:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:59:50 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:59:50 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:05:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:59:50 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:05:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:59:55 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:59:55 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: add -r 0000:00:00:00:01:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:59:55 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: add -r 0000:00:00:00:01:00 -c 00:01:00:00:00:0000 /home/sebastian/test_task some dummy ||
+|| 2022:05:02-10:59:58 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-10:59:58 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: list ||
+|| 2022:05:02-10:59:58 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: list ||
+|| 2022:05:02-11:00:04 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-11:00:04 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: rm 2 ||
+|| 2022:05:02-11:00:04 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: rm 2 ||
+|| 2022:05:02-11:00:08 || message log level: STANDARD || global log level: STANDARD ||Started handling Cron command. ||
+|| 2022:05:02-11:00:08 || message log level: STANDARD || global log level: STANDARD ||Cron command being handled: exit ||
+|| 2022:05:02-11:00:53 || message log level: STANDARD || global log level: STANDARD ||Handled Cron command: exit ||
+|| 2022:05:02-11:00:56 || message log level: MAX || global log level: STANDARD ||Terminating Cron... ||
