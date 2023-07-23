@@ -9,4 +9,4 @@ Concurrency safe library for logging written in C.
 
 ## Project 2
 
-Concurrency safe substitute of well-known `cron` scheduler.
+Concurrency safe substitute of the well-known `cron` scheduler.
