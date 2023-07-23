@@ -1,7 +1,7 @@
 # real-time-system-projects
 
 1. POSIX compliant
-2. Before refarctor
+2. Before refactor
 
 ## Project 1
 
